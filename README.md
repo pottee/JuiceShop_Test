@@ -46,7 +46,8 @@ For Mac,
    https://chromedriver.storage.googleapis.com/index.html?path=111.0.5563.64/
 
       5.2.1 copy chromedriver to /user/local/bin
-       >mv chromedriver /usr/local/bin
+      
+      >mv chromedriver /usr/local/bin
 
       5.2.2 ensure has path /usr/local/bin 
       e.g. https://www.swtestacademy.com/install-chrome-driver-on-mac/
