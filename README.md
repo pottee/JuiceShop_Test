@@ -18,7 +18,7 @@ For Mac,
 
 
 3.  Check that the path for python and pip is added to the .bash_profile, if not add it manually Run the command vi .bash_profile.
-   And if you have installed python through the installer (in Step 1) you should see the path automatically added.
+   (if you have installed python through the installer (in Step 1) you should see the path automatically added.)
 
       In ~/.bash_profiile,
 
@@ -69,12 +69,12 @@ For Mac,
 
 **How to run test:**
 
-1. Ensure can run this command
+1. Ensure can run this command.
 
        robot --version
 
-   Then it's ready to run the test cases:
-   For, running all test cases,
+2. Then it's ready to run the test cases:
+   For, running all test cases.
 
        robot -d results tests/Owasp.robot
 
