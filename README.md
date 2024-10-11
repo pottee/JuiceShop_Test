@@ -47,8 +47,9 @@ For Mac,
    
    5.2 download from website here.
 
-       https://chromedriver.chromium.org/downloads
-       https://chromedriver.storage.googleapis.com/index.html?path=111.0.5563.64/
+   https://chromedriver.chromium.org/downloads ,
+   
+   https://chromedriver.storage.googleapis.com/index.html?path=111.0.5563.64/
 
    5.2.1 copy chromedriver to /user/local/bin .
       
